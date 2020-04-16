@@ -1,4 +1,4 @@
-## CLI 2.x / CLI 3.x
+### CLI 2.x / CLI 3.x
 
 ## 명령어
 
@@ -26,4 +26,11 @@
 ```
 2.x : 필요 X
 3.x : 필요 O
+```
+
+## node_modules
+
+```
+2.x : npm install 필요
+3.x : 프로젝트 생성시 설치
 ```
