@@ -23,8 +23,12 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Project Settings
 ### vetur
-
+```
+1. vscode vetur 플러그인 설치
+2. vue + [tab]키로 자동완성
+```
 ### vue-router
 ```
 npm i vue-router --save
