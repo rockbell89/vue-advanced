@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>ask 페이지</p>
+    <p>jobs 페이지</p>
   </div>
 </template>
 
@@ -8,4 +8,5 @@
 export default {};
 </script>
 
-<style></style>
+<style>
+</style>

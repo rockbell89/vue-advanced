@@ -49,3 +49,9 @@ const router = new VueRouter({
 })
 ```
 
+### sass-loader / node-sass
+sass / scss 사용을 위한 설치
+```
+npm i -D sass-loader node-sass
+```
+
