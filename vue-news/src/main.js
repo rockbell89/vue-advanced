@@ -2,7 +2,7 @@ import Vue from "vue";
 import App from "./App";
 import {
   router
-} from "./router/index"
+} from "./router/index";
 
 Vue.config.productionTip = false;
 
