@@ -62,3 +62,8 @@ style-loader : 읽은 css 파일들을 style태그로 만들어 head태그 안�
 url-loader : file-loader와 같이 동작 하지만, byte 제한을 설정하여 그 보다 작은 경우 DataURL을 반환해준다
 ```
 
+### axios
+
+```
+npm i -S axios
+```
